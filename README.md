@@ -9,6 +9,5 @@ TBD
 
 ## Talks
 
-[User Interface Algorithms - Mark DiMarco](http://www.youtube.com/watch?v=90NsjKvz9Ns)
-
-[Native Code on the Web? - Nick Bray](http://www.youtube.com/watch?v=-xNZYr40QOk)
+* [User Interface Algorithms - Mark DiMarco](http://www.youtube.com/watch?v=90NsjKvz9Ns)
+* [Native Code on the Web? - Nick Bray](http://www.youtube.com/watch?v=-xNZYr40QOk)
