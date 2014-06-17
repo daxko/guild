@@ -5,7 +5,16 @@ Everything pertaining to the software craftsman guild
 
 ## Schedule
 
-TBD
+| Date       | Topic        | Presenter |
+| ---------- | ------------ | --------- |
+| 7/2/2014   | ServiceStack | Caleb     |
+| 7/9/2014   | ?            | ?         |
+| 7/16/2014  | ?            | ?         |
+| 7/23/2014  | ?            | ?         |
+| 7/30/2014  | ?            | ?         |
+| 8/6/2014   | ?            | ?         |
+| 8/13/2014  | ?            | ?         |
+| 8/20/2014  | ?            | ?         |
 
 ## Talks
 
