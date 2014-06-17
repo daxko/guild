@@ -1,4 +1,4 @@
-Daxko Software Craftsman Guild
+Daxko Software Craftsman's Guild
 =====
 
 Everything pertaining to the software craftsman guild
