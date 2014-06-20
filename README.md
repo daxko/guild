@@ -7,7 +7,7 @@ Everything pertaining to the software craftsman guild
 
 | Date       | Topic        | Presenter |
 | ---------- | ------------ | --------- |
-| 7/2/2014   | ServiceStack | Caleb     |
+| 7/2/2014   | MSpec        | Caleb     |
 | 7/9/2014   | ?            | ?         |
 | 7/16/2014  | ?            | ?         |
 | 7/23/2014  | ?            | ?         |
