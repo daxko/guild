@@ -1,0 +1,1 @@
+Instructions at http://osherove.com/tdd-kata-1/
