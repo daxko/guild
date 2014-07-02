@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'core/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'guild'
+  spec.name          = 'string_calculator'
   spec.version       = Guild::VERSION
   spec.authors       = ['Butch Mayhew', 'Jeremey Polley', 'Michael Elkins']
   spec.email         = ['rubycrew@daxko.com']
@@ -21,5 +21,4 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'bundler', '~> 1.5'
   spec.add_development_dependency 'rake'
   spec.add_development_dependency 'rspec'
-  spec.add_development_dependency 'fakes-rspec'
 end
