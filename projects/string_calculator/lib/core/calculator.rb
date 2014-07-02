@@ -5,10 +5,18 @@ module Guild
     end
 
     def add(input)
-      parser.parse(input).inject(0, :+)
+      sum_the(input)
     end
 
   private
     attr_reader :parser
+    
+    def sum_the(input)
+      parse_the(input).inject(0, :+)
+    end
+
+    def parse_the(input)
+      Array(parser.parse(input))
+    end
   end
 end
