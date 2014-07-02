@@ -23,3 +23,8 @@ Everything pertaining to the software craftsman guild
 * [User Interface Algorithms - Mark DiMarco](http://www.youtube.com/watch?v=90NsjKvz9Ns)
 * [Native Code on the Web? - Nick Bray](http://www.youtube.com/watch?v=-xNZYr40QOk)
 * [Making Apps That Don’t Suck - Mike Lee](http://www.infoq.com/presentations/Making-Apps-That-Dont-Suck)
+* 
+## Katas
+
+* [String Calculator](http://osherove.com/tdd-kata-1/)
+* [Mars Rover](http://dallashackclub.com/rover)
