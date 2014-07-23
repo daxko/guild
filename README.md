@@ -23,6 +23,7 @@ Everything pertaining to the software craftsman guild
 * [Native Code on the Web? - Nick Bray](http://www.youtube.com/watch?v=-xNZYr40QOk)
 * [Lessons in Emotional Safety FTW - Jenn Turner](http://www.youtube.com/watch?v=0_mgp_VWIe0)
 * [Making Apps That Don’t Suck - Mike Lee](http://www.infoq.com/presentations/Making-Apps-That-Dont-Suck)
+* [Microservices and DevOps (Adrian Cockroft from Netflix) - 30 min](http://www.infoq.com/interviews/adrian-cockcroft-microservices-devops)
 
 ## Katas
 
