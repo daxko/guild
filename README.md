@@ -10,7 +10,7 @@ Everything pertaining to the software craftsman guild
 | 7/9/2014   | [The Myth of the Genius Programmer (Google I/O 2009) - Brian Fitzpatrick & Ben Collins-Sussman](https://www.youtube.com/watch?v=0SARbwvhupQ) | Video         |
 | 7/16/2014  | Introduction to Swift Programming                         | Austin Aldrich         |
 | 7/23/2014  | [Architecture the Lost Years](http://www.hakkalabs.co/articles/robert-uncle-bob-martin-architecture-lost-years) | Video         |
-| 7/30/2014  | ?                         | ?         |
+| 7/30/2014  | [Microservices and DevOps (Adrian Cockroft from Netflix) - 30 min](http://www.infoq.com/interviews/adrian-cockcroft-microservices-devops) | Video         |
 | 8/6/2014   | ?                         | ?         |
 | 8/13/2014  | ?                         | ?         |
 | 8/20/2014  | Knockout.JS               | Austin    |
@@ -23,7 +23,6 @@ Everything pertaining to the software craftsman guild
 * [Native Code on the Web? - Nick Bray](http://www.youtube.com/watch?v=-xNZYr40QOk)
 * [Lessons in Emotional Safety FTW - Jenn Turner](http://www.youtube.com/watch?v=0_mgp_VWIe0)
 * [Making Apps That Don’t Suck - Mike Lee](http://www.infoq.com/presentations/Making-Apps-That-Dont-Suck)
-* [Microservices and DevOps (Adrian Cockroft from Netflix) - 30 min](http://www.infoq.com/interviews/adrian-cockcroft-microservices-devops)
 
 ## Katas
 
