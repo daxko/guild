@@ -15,7 +15,7 @@ Everything pertaining to the software craftsman guild
 | 8/13/2014  | ?                         | ?         |
 | 8/20/2014  | Knockout.JS               | Austin    |
 | 8/27/2014  | Thinking as a tester/user | Butch     |
-| 9/3/2014   | ?                         | ?         |
+| 9/3/2014   | GoLang                    | Shane     |
 
 ## Talks
 
