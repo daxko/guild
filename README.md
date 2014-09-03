@@ -10,7 +10,7 @@ Everything pertaining to the software craftsman guild
 | 8/20/2014  | Knockout.JS               | Austin    |
 | 8/27/2014  | Thinking as a tester/user | Butch     |
 | 9/3/2014   | Go                        | Shane     |
-| 9/10/2014  | Open                      |           |
+| 9/10/2014  | Go (continued)            | Shane     |
 | 9/17/2014  | Open                      |           |
 | 9/24/2014  | What's New in Java 8      | Matt D    |
 
