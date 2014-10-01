@@ -10,7 +10,10 @@ Everything pertaining to the software craftsman guild
 | 9/17/2014  | Node + Express            | Jason     |
 | 9/24/2014  | [The Mess We're In - Joe Armstrong](https://www.youtube.com/watch?v=lKXe3HUG2l4)| - |
 | 10/1/2014  | [Spotify Engineering Culture Part 2](https://labs.spotify.com/2014/09/20/spotify-engineering-culture-part-2/)      | -    |
-| 10/8/2014  | What's New in Java 8      | Matt D    |
+| 10/8/2014  | Daxko Engineering Culture Brainstorm      | -    |
+| 10/15/2014  | ?      | ?    |
+| 10/22/2014  | ?      | ?    |
+| 10/29/2014  | What's New in Java 8      | Matt D    |
 
 ## Talks
 
