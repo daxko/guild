@@ -9,7 +9,8 @@ Everything pertaining to the software craftsman guild
 | ---------- | ------------------------- | --------- |
 | 10/15/2014  | Cancelled - Engineering Offsite | - |
 | 10/22/2014  | [Keeping Your Edge by Deploying Faster](https://www.youtube.com/watch?v=G4HaewmJlZc)| Video (Tyson Stewart)  |
-| 10/29/2014  | What's New in Java 8      | Matt D    |
+| 10/29/2014  | Nginx Hack               | Shane |
+| 11/5/2014  | What's New in Java 8      | Matt D    |
 
 ## Talks
 
