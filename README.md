@@ -11,6 +11,7 @@ Everything pertaining to the software craftsman guild
 | 10/22/2014  | [Keeping Your Edge by Deploying Faster](https://www.youtube.com/watch?v=G4HaewmJlZc)| Video (Tyson Stewart)  |
 | 10/29/2014  | Nginx Hack               | Shane |
 | 11/5/2014  | What's New in Java 8      | Matt D    |
+| 11/12/2014 | New Features in .Net 4.5 | Steven W |
 
 ## Talks
 
