@@ -6,6 +6,6 @@ Sample projects for learning about NServiceBus. You should be able to just build
 [RavenDB 2.5 build 2939](http://hibernatingrhinos.com/downloads/RavenDB%20Installer/2939)
 
 
-## Some addition resources
+## Some additional resources
 * [Architectural Principles](http://docs.particular.net/nservicebus/architectural-principles)
 
