@@ -15,8 +15,8 @@ namespace client
 
             while (Console.ReadLine() != null)
             {
-                using (var tx = new TransactionScope())
-                {
+                //using (var tx = new TransactionScope())
+                //{
                     try
                     {
                         var id = Guid.NewGuid();
@@ -25,15 +25,15 @@ namespace client
                         Console.WriteLine("==================================================");
                         Console.WriteLine("Send a new PlaceOrder command with id {0}", id.ToString("N"));
 
-                        throw new Exception("Oops");
+                        //throw new Exception("Oops");
 
-                        tx.Complete();
+                        //tx.Complete();
                     }
                     catch (Exception)
                     {
 
                     }
-                }
+                //}
             }
         }
 
