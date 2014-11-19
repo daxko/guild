@@ -17,6 +17,7 @@ Everything pertaining to the software craftsman guild
 * [Lessons in Emotional Safety FTW - Jenn Turner](http://www.youtube.com/watch?v=0_mgp_VWIe0)
 * [Making Apps That Don’t Suck - Mike Lee](http://www.infoq.com/presentations/Making-Apps-That-Dont-Suck)
 * [Keeping Your Edge by Deploying Faster - Tyson Stewart](https://www.youtube.com/watch?v=G4HaewmJlZc)
+* Reactive Extensions
 
 ## Katas
 
