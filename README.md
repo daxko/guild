@@ -10,7 +10,7 @@ Everything pertaining to the software craftsman guild
 | 11/12/2014 | NServiceBus 4.0 Course | Steven W |
 | 11/19/2014 | [Functional Principles for Object-Oriented Developers](http://www.infoq.com/presentations/fp-principles-oop) | Video (Jessica Kerr) |
 | 11/26/2014 | ? | ? |
-| 12/3/2014 | SQL Server Unit Tests | Austin A |
+| 12/10/2014 | SQL Server Unit Tests | Austin A |
 
 ## Talks
 
