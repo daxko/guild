@@ -12,6 +12,7 @@ Everything pertaining to the software craftsman guild
 | 11/26/2014 | ? | ? |
 | 12/03/2014 | ? | ? |
 | 12/10/2014 | SQL Server Unit Tests | Austin A |
+| 2/11/2015  | Apple Watchkit | Austin A |
 
 ## Talks
 
