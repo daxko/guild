@@ -8,6 +8,7 @@ Everything pertaining to the software craftsman guild
 | Date       | Topic                     | Presenter |
 | ---------- | ------------------------- | --------- |
 | 1/28/2015  | Travis CI | Jason W |
+| 2/4/2015   | ? | ? |
 | 2/11/2015  | Apple Watchkit | Austin A |
 
 ## Talks
