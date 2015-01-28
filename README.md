@@ -8,7 +8,7 @@ Everything pertaining to the software craftsman guild
 | Date       | Topic                     | Presenter |
 | ---------- | ------------------------- | --------- |
 | 1/28/2015  | Travis CI | Jason W |
-| 2/4/2015   | Going Nuts with NuGet, MyGet, Paket | Steven |
+| 2/4/2015   | Going Nuts with NuGet, MyGet, and Paket | Steven |
 | 2/11/2015  | Apple Watchkit | Austin A |
 
 ## Talks
