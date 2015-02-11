@@ -6,10 +6,15 @@ Everything pertaining to the software craftsman guild
 ## Schedule
 
 | Date       | Topic                     | Presenter |
-| ---------- | ------------------------- | --------- |
-| 1/28/2015  | Travis CI | Jason W |
-| 2/4/2015   | Going Nuts with NuGet, MyGet, and Paket | Steven |
-| 2/11/2015  | [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ) | - |
+| --------- | ------------------------- | --------- |
+| 1/28/2015 | Travis CI | Jason W |
+| 2/4/2015  | Going Nuts with NuGet, MyGet, and Paket | Steven |
+| 2/11/2015 | [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ) | - |
+| 2/18/2015 | dxp deployer Hacking Challenge | - |
+| 2/25/2015 | ? | ? |
+| 3/4/2015 | ? | ? |
+| 3/11/2015 | ? | ? |
+| 3/18/2015 | ? | ? |
 
 ## Talks
 
