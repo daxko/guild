@@ -21,7 +21,8 @@ Everything pertaining to the software craftsman guild
 * [Native Code on the Web? - Nick Bray](http://www.youtube.com/watch?v=-xNZYr40QOk)
 * [Making Apps That Don’t Suck - Mike Lee](http://www.infoq.com/presentations/Making-Apps-That-Dont-Suck)
 * Reactive Extensions
-* [The Old New Old New Things](http://www.infoq.com/presentations/environment-concepts)
+* [The Old New Old New Things - Greg Young](http://www.infoq.com/presentations/environment-concepts)
+* [8 Lines of Code - Greg Young](http://www.infoq.com/presentations/8-lines-code-refactoring)
 
 ## Katas
 
