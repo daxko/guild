@@ -23,6 +23,7 @@ Everything pertaining to the software craftsman guild
 * Reactive Extensions
 * [The Old New Old New Things - Greg Young](http://www.infoq.com/presentations/environment-concepts)
 * [8 Lines of Code - Greg Young](http://www.infoq.com/presentations/8-lines-code-refactoring)
+* [Finding Service Boundaries - Udi Dahan](https://vimeo.com/113515335)
 
 ## Katas
 
