@@ -16,6 +16,9 @@ Everything pertaining to the software craftsman guild
 | 3/11/2015 | ? | ? |
 | 3/18/2015 | ? | ? |
 
+## Screencasts
+* [Getting started with developwithpassion.specifications](https://vimeo.com/11642767)
+* 
 ## Talks
 
 * [Native Code on the Web? - Nick Bray](http://www.youtube.com/watch?v=-xNZYr40QOk)
