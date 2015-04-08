@@ -15,7 +15,9 @@ Everything pertaining to the software craftsman guild
 | 3/4/2015 | [The Old New Old New Things](http://www.infoq.com/presentations/environment-concepts) | - |
 | 3/11/2015 | [Programming is terrible—Lessons learned from a life wasted. EMF2012](https://www.youtube.com/watch?v=csyL9EC0S0c&t=15) | - |
 | 3/18/2015 | ? | ? |
-| 3/25/2015 | ? | ? |
+| 3/25/2015 | [8 Lines of Code](http://www.infoq.com/presentations/8-lines-code-refactoring) | ? |
+| 4/1/2015 | - | - |
+| 4/8/2015 | - | - |
 
 ## Screencasts
 * [Getting started with developwithpassion.specifications](https://vimeo.com/11642767)
@@ -25,7 +27,6 @@ Everything pertaining to the software craftsman guild
 * [Native Code on the Web? - Nick Bray](http://www.youtube.com/watch?v=-xNZYr40QOk)
 * [Making Apps That Don’t Suck - Mike Lee](http://www.infoq.com/presentations/Making-Apps-That-Dont-Suck)
 * Reactive Extensions
-* [8 Lines of Code - Greg Young](http://www.infoq.com/presentations/8-lines-code-refactoring)
 * [Finding Service Boundaries - Udi Dahan](https://vimeo.com/113515335)
 
 ## Katas
