@@ -18,6 +18,9 @@ Everything pertaining to the software craftsman guild
 | 3/25/2015 | [8 Lines of Code](http://www.infoq.com/presentations/8-lines-code-refactoring) | ? |
 | 4/1/2015 | - | - |
 | 4/8/2015 | - | - |
+| 4/15/2015 | [The Facebook Release Process](http://www.infoq.com/presentations/Facebook-Release-Process) | Chuck Rossi |
+| 4/22/2015 | Sasquatch Overview | Caleb |
+| 4/8/2015 | - | - |
 
 ## Screencasts
 * [Getting started with developwithpassion.specifications](https://vimeo.com/11642767)
