@@ -18,6 +18,7 @@ Everything pertaining to the software craftsman guild
 
 Have a talk you're interested in watching? Add it below.
 
+* [Move Fast and Break Nothing - Zach Holman](http://zachholman.com/talk/move-fast-break-nothing/)
 * [Native Code on the Web? - Nick Bray](http://www.youtube.com/watch?v=-xNZYr40QOk)
 * [Making Apps That Don’t Suck - Mike Lee](http://www.infoq.com/presentations/Making-Apps-That-Dont-Suck)
 * [Finding Service Boundaries - Udi Dahan](https://vimeo.com/113515335)
