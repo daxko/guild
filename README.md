@@ -10,8 +10,8 @@ Everything pertaining to the software craftsman guild
 | 4/29/2015 | Harmony with Javascript - ES6, Javascript and You | Jason W |
 | 5/6/2015 | [Hack Yourself First](https://www.youtube.com/watch?v=rdHD6pVG66Q) | Troy Hunt |
 | 5/13/2015 | [Wat](https://www.destroyallsoftware.com/talks/wat) | Gary Bernhardt |
-| 5/20/2015 | Open | - |
-| 5/27/2015 | Open | - |
+| 5/20/2015 | - | - |
+| 5/27/2015 | [Madam Sandi Tells Your Future](https://www.youtube.com/watch?v=JOM5_V5jLAs) | Sandi Metz |
 
 
 ## Talks
