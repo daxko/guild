@@ -34,6 +34,7 @@ Have a talk you're interested in watching? Add it below.
 
 Missed a guild session? Want to go back and reference a video? Everything we've watched in the past is listed out below.
 
+* [React.js Beyond the DOM](https://www.youtube.com/watch?v=eNC0mRYGWgc) (6/10/2015)
 * [Madam Sandi Tells Your Future](https://www.youtube.com/watch?v=JOM5_V5jLAs) (5/27/2015)
 * [Wat](https://www.destroyallsoftware.com/talks/wat) (5/13/2015)
 * [Hack Yourself First](https://www.youtube.com/watch?v=rdHD6pVG66Q) (5/6/2015)
