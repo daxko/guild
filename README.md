@@ -5,14 +5,12 @@ Everything pertaining to the software craftsman guild
 
 ## Schedule
 
-| Date       | Topic                     | Presenter |
-| --------- | ------------------------- | --------- |
-| 4/29/2015 | Harmony with Javascript - ES6, Javascript and You | Jason W |
-| 5/6/2015 | [Hack Yourself First](https://www.youtube.com/watch?v=rdHD6pVG66Q) | Troy Hunt |
-| 5/13/2015 | [Wat](https://www.destroyallsoftware.com/talks/wat) | Gary Bernhardt |
-| 5/20/2015 | - | - |
-| 5/27/2015 | [Madam Sandi Tells Your Future](https://www.youtube.com/watch?v=JOM5_V5jLAs) | Sandi Metz |
-
+| Date       | Topic                      | Presenter |
+| ---------- | -------------------------- | --------- |
+| 6/17/2015  | Callbacks No More (Generators & Promises in ES6) | Jason W.  |
+| 6/17/2015  | *Open*                     | -         |
+| 7/1/2015   | *Open*                     | -         |
+| 7/8/2015   | *Open*                     | -         |
 
 ## Talks
 
@@ -36,6 +34,9 @@ Have a talk you're interested in watching? Add it below.
 
 Missed a guild session? Want to go back and reference a video? Everything we've watched in the past is listed out below.
 
+* [Madam Sandi Tells Your Future](https://www.youtube.com/watch?v=JOM5_V5jLAs) (5/27/2015)
+* [Wat](https://www.destroyallsoftware.com/talks/wat) (5/13/2015)
+* [Hack Yourself First](https://www.youtube.com/watch?v=rdHD6pVG66Q) (5/6/2015)
 * [The Facebook Release Process](http://www.infoq.com/presentations/Facebook-Release-Process) (4/15/2015)
 * [8 Lines of Code](http://www.infoq.com/presentations/8-lines-code-refactoring) (3/25/2015)
 * [Programming is terrible—Lessons learned from a life wasted. EMF2012](https://www.youtube.com/watch?v=csyL9EC0S0c) (3/11/2015)
