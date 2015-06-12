@@ -7,8 +7,8 @@ Everything pertaining to the software craftsman guild
 
 | Date       | Topic                      | Presenter |
 | ---------- | -------------------------- | --------- |
-| 6/17/2015  | Callbacks No More (Generators & Promises in ES6) | Jason W.  |
 | 6/17/2015  | *Open*                     | -         |
+| 6/24/2015  | Callbacks No More (Generators & Promises in ES6) | Jason W.  |
 | 7/1/2015   | *Open*                     | -         |
 | 7/8/2015   | *Open*                     | -         |
 
@@ -16,6 +16,7 @@ Everything pertaining to the software craftsman guild
 
 Have a talk you're interested in watching? Add it below.
 
+* [The Performance and Usability of Font Loading - Zach Leatherman](https://www.youtube.com/watch?v=DGQSw6gc95k)
 * [Move Fast and Break Nothing - Zach Holman](http://zachholman.com/talk/move-fast-break-nothing/)
 * [Native Code on the Web? - Nick Bray](http://www.youtube.com/watch?v=-xNZYr40QOk)
 * [Making Apps That Don’t Suck - Mike Lee](http://www.infoq.com/presentations/Making-Apps-That-Dont-Suck)
