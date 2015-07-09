@@ -7,10 +7,10 @@ Everything pertaining to the software craftsman guild
 
 | Date       | Topic                      | Presenter |
 | ---------- | -------------------------- | --------- |
-| 6/17/2015  | *Open*                     | -         |
-| 6/24/2015  | Callbacks No More (Generators & Promises in ES6) | Jason W.  |
-| 7/1/2015   | [Move Fast and Break Nothing](http://zachholman.com/talk/move-fast-break-nothing/)| Zach Holman |
-| 7/8/2015   | *Open*                     | -         |
+| 7/15/2015   | *Open*                     | -         |
+| 7/22/2015   | *Open*                     | -         |
+| 7/29/2015   | *Open*                     | -         |
+| 8/5/2015   | *Open*                     | -         |
 
 ## Talks
 
@@ -34,6 +34,7 @@ Have a talk you're interested in watching? Add it below.
 
 Missed a guild session? Want to go back and reference a video? Everything we've watched in the past is listed out below.
 
+* [Move Fast and Break Nothing](http://zachholman.com/talk/move-fast-break-nothing/) (7/1/2015)
 * [React.js Beyond the DOM](https://www.youtube.com/watch?v=eNC0mRYGWgc) (6/10/2015)
 * [Madam Sandi Tells Your Future](https://www.youtube.com/watch?v=JOM5_V5jLAs) (5/27/2015)
 * [Wat](https://www.destroyallsoftware.com/talks/wat) (5/13/2015)
