@@ -7,8 +7,8 @@ Everything pertaining to the software craftsman guild
 
 | Date       | Topic                      | Presenter |
 | ---------- | -------------------------- | --------- |
-| 7/15/2015   | *Open*                     | -         |
-| 7/22/2015   | *Open*                     | -         |
+| 7/15/2015   | BDD Part 1                   | Pluralsight |
+| 7/22/2015   | BDD Part 2                    | Pluralsight |
 | 7/29/2015   | *Open*                     | -         |
 | 8/5/2015   | *Open*                     | -         |
 
