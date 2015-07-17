@@ -20,6 +20,7 @@ Have a talk you're interested in watching? Add it below.
 * [Native Code on the Web? - Nick Bray](http://www.youtube.com/watch?v=-xNZYr40QOk)
 * [Making Apps That Don’t Suck - Mike Lee](http://www.infoq.com/presentations/Making-Apps-That-Dont-Suck)
 * [Finding Service Boundaries - Udi Dahan](https://vimeo.com/113515335)
+* [Making Hacking Child's Play](https://vimeo.com/132192251)
 
 ## Screencasts
 * [Getting started with developwithpassion.specifications](https://vimeo.com/11642767)
