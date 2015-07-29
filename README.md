@@ -22,6 +22,7 @@ Have a talk you're interested in watching? Add it below.
 * [Finding Service Boundaries - Udi Dahan](https://vimeo.com/113515335)
 * [Making Hacking Child's Play](https://vimeo.com/132192251)
 * [To NoSQL or Not to NoSQL, That Is the Question - David Ostrovsky](https://vimeo.com/132194546)
+* [Business Logic, a different perspective - Udi Dahan](https://vimeo.com/131757759) 
 
 ## Screencasts
 * [Getting started with developwithpassion.specifications](https://vimeo.com/11642767)
