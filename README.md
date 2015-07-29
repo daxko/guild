@@ -20,9 +20,12 @@ Have a talk you're interested in watching? Add it below.
 * [Native Code on the Web? - Nick Bray](http://www.youtube.com/watch?v=-xNZYr40QOk)
 * [Making Apps That Don’t Suck - Mike Lee](http://www.infoq.com/presentations/Making-Apps-That-Dont-Suck)
 * [Finding Service Boundaries - Udi Dahan](https://vimeo.com/113515335)
-* [Making Hacking Child's Play - Troy Hunt](https://vimeo.com/132192251)
-* [To NoSQL or Not to NoSQL, That Is the Question - David Ostrovsky](https://vimeo.com/132194546)
-* [Business Logic, a different perspective - Udi Dahan](https://vimeo.com/131757759) 
+* [NDC 2015: Making Hacking Child's Play - Troy Hunt](https://vimeo.com/132192251)
+* [NDC 2015: To NoSQL or Not to NoSQL, That Is the Question - David Ostrovsky](https://vimeo.com/132194546)
+* [NDC 2015: Business Logic, a different perspective - Udi Dahan](https://vimeo.com/131757759) 
+* [NDC 2015: SOLID Architecture in Slices not Layers - Jimmy Bogard](https://vimeo.com/131633177)
+* [NDC 2015: CQRS - but different - Udi Dahan](https://vimeo.com/131199089)
+* [NDC 2015: Web Development in 2020 - Steve Sanderson](https://vimeo.com/131637102)
 
 ## Screencasts
 * [Getting started with developwithpassion.specifications](https://vimeo.com/11642767)
