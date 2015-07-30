@@ -26,6 +26,7 @@ Have a talk you're interested in watching? Add it below.
 * [NDC 2015: SOLID Architecture in Slices not Layers - Jimmy Bogard](https://vimeo.com/131633177)
 * [NDC 2015: CQRS - but different - Udi Dahan](https://vimeo.com/131199089)
 * [NDC 2015: Web Development in 2020 - Steve Sanderson](https://vimeo.com/131637102)
+* [NDC 2015: Loosely coupled applications with MassTransit and RabbitMq - Roland Guijt](https://vimeo.com/131635506)
 
 ## Screencasts
 * [Getting started with developwithpassion.specifications](https://vimeo.com/11642767)
