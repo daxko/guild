@@ -22,7 +22,6 @@ Have a talk you're interested in watching? Add it below.
 * [Finding Service Boundaries - Udi Dahan](https://vimeo.com/113515335)
 * [NDC 2015: Making Hacking Child's Play - Troy Hunt](https://vimeo.com/132192251)
 * [NDC 2015: To NoSQL or Not to NoSQL, That Is the Question - David Ostrovsky](https://vimeo.com/132194546)
-* [NDC 2015: Business Logic, a different perspective - Udi Dahan](https://vimeo.com/131757759) 
 * [NDC 2015: SOLID Architecture in Slices not Layers - Jimmy Bogard](https://vimeo.com/131633177)
 * [NDC 2015: CQRS - but different - Udi Dahan](https://vimeo.com/131199089)
 * [NDC 2015: Web Development in 2020 - Steve Sanderson](https://vimeo.com/131637102)
@@ -41,6 +40,7 @@ Have a talk you're interested in watching? Add it below.
 
 Missed a guild session? Want to go back and reference a video? Everything we've watched in the past is listed out below.
 
+* [NDC 2015: Business Logic, a different perspective - Udi Dahan](https://vimeo.com/131757759) (7/29/2015)
 * [Move Fast and Break Nothing](http://zachholman.com/talk/move-fast-break-nothing/) (7/1/2015)
 * [React.js Beyond the DOM](https://www.youtube.com/watch?v=eNC0mRYGWgc) (6/10/2015)
 * [Madam Sandi Tells Your Future](https://www.youtube.com/watch?v=JOM5_V5jLAs) (5/27/2015)
