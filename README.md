@@ -25,7 +25,7 @@ Have a talk you're interested in watching? Add it below.
 * [NDC 2015: CQRS - but different - Udi Dahan](https://vimeo.com/131199089)
 * [NDC 2015: Web Development in 2020 - Steve Sanderson](https://vimeo.com/131637102)
 * [NDC 2015: Loosely coupled applications with MassTransit and RabbitMq - Roland Guijt](https://vimeo.com/131635506)
-* [Turning the database inside out with apache samza](http://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/)
+
 
 ## Screencasts
 * [Getting started with developwithpassion.specifications](https://vimeo.com/11642767)
@@ -40,6 +40,7 @@ Have a talk you're interested in watching? Add it below.
 
 Missed a guild session? Want to go back and reference a video? Everything we've watched in the past is listed out below.
 
+* [Turning the database inside out with apache samza](http://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/) (Aug 2015)
 * [NDC 2015: SOLID Architecture in Slices not Layers - Jimmy Bogard](https://vimeo.com/131633177)(Aug 2015)
 * [NDC 2015: Business Logic, a different perspective - Udi Dahan](https://vimeo.com/131757759) (7/29/2015)
 * [Move Fast and Break Nothing](http://zachholman.com/talk/move-fast-break-nothing/) (7/1/2015)
