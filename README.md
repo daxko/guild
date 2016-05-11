@@ -7,9 +7,9 @@ Everything pertaining to the software craftsman guild
 
 | Date       | Topic                      | Presenter |
 | ---------- | -------------------------- | --------- |
-| 9/30/2015   | *Open*                     | -         |
-| 10/7/2015   | Developer Do's and Don'ts for Compliance | Steve Kaminsky |
-| 10/14/2015   | Automation the Monolith | Butch & Jeremy |
+| 5/18/2016   | *Open*                     | -         |
+| 6/1/2016   | *Open*                     | -         |
+| 6/15/2016   | *Open*                     | -         |
 
 ## Talks
 
