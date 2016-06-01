@@ -8,7 +8,7 @@ Everything pertaining to the software craftsman guild
 | Date       | Topic                      | Presenter |
 | ---------- | -------------------------- | --------- |
 | 5/18/2016   | Elixir Basics: A Functional Programming Journey | Sean Rodman |
-| 6/1/2016   | *Open*                     | -         |
+| 6/1/2016   | [The Worst Programming Language Ever](https://www.infoq.com/presentations/worst-programming-language)|Mark Rendle|
 | 6/15/2016   | Mongo see, Mongo do: A ridiculously fast database with a Javascript API | Napo Monasterio |
 
 ## Talks
