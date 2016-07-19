@@ -11,6 +11,8 @@ Everything pertaining to the software craftsman guild
 | 6/1/2016   | [The Worst Programming Language Ever](https://www.infoq.com/presentations/worst-programming-language)|Mark Rendle|
 | 6/15/2016 | Mongo see, Mongo do: A ridiculously fast database with a Javascript API | Napo Monasterio |
 | 6/29/2016 | [Git 101](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics) | Matt D and others |
+| - | - | - |
+| 08/24/2016 | Build MVC Apps Like [Sean Combs*](https://en.wikipedia.org/wiki/Sean_Combs) - Part 1 | Nicholas Myers |
 
 ## Talks
 
