@@ -13,7 +13,7 @@ Everything pertaining to the software craftsman guild
 | 6/29/2016 | [Git 101](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics) | Matt D and others |
 | 11/16/2016 | Elasticsearch for all your needs | Wally Shirey |
 | 12/14/2016 | Build Software Like [Sean Combs*](https://en.wikipedia.org/wiki/Sean_Combs) - Part 1| Nicholas Myers |
-| 01/11/2017 | Build Software Like Sean Combs - Part 2| Nicholas Myers |
+| 01/25/2017 | Build Software Like Sean Combs - Part 2| Nicholas Myers |
 
 ## Talks
 
