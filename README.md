@@ -18,7 +18,7 @@ Everything pertaining to the software craftsman guild
 | 03/08/2017 | Don't call us, we'll call you: Lessons from implementing scheduling services| Napo Monasterio |
 | 04/05/2017 | Alexa, teach me something awesome: An introduction to the node.js Alexa SDK| Napo Monasterio |
 | 05/10/2017 | Monkey C and the Garmin Connect API: How to interact with wearables data| Napo Monasterio |
-| 05/31/2017 | Have Your Cake and Eat It Too! | Nicholas Myers |
+| 06/14/2017 | Have Your Cake and Eat It Too! | Nicholas Myers |
 
 ## Talks
 
