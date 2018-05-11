@@ -20,6 +20,8 @@ Everything pertaining to the software craftsman guild
 | 05/10/2017 | Monkey C and the Garmin Connect API: How to interact with wearables data| Napo Monasterio |
 | 06/14/2017 | Have Your Cake and Eat It Too! | Nicholas Myers |
 | 07/26/2017 | Conference Review | Maria Abreu |
+| 06/14/2018 | **Servers? We don't need no stinkin' servers!** How the partnerships team turned to Serverless for its infrastructure needs | Napo Monasterio |
+| 07/10/2018 | **Move over, Jenkins!** Introducing CodeBuild and Parameter Store, a cleaner way to build and deploy apps, and a safer way to manage and serve environment variables | Napo Monasterio |
 
 ## Talks
 
